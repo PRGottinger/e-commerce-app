@@ -14,13 +14,25 @@ This project requires node.js, inquirer and mysql2 and runs through the terminal
 
 Here are videos walking through how to use the program:
 
+1. Create Schema.sql and Seed Data: https://drive.google.com/file/d/1t5QMGKXqdliFeei30R42VsvANIPekhWH/view
+
+2. GET routes to return all categories, all products, and all tags being tested in Insomnia: https://drive.google.com/file/d/1Qhm_Knezt6vDiRa72-OVBgF2i8YnPuKG/view
+
+3. GET routes to return a single category, a single product, and a single tag being tested in Insomnia: https://drive.google.com/file/d/1jMi8_5FnGP8-EsmM5j5OGBo3H-nJ0cRq/view
+
+4. POST routes for categories, tag, and products being tested in Insomnia: https://drive.google.com/file/d/16V6KJMNH6Cr-WUhQ-c1mbduwIYkADlSZ/view
+
+5. PUT routes for categories, tag, and products being tested in Insomnia: https://drive.google.com/file/d/1a63hgV0NJi_Zn534fOULwtq3_YHpAWxB/view
+
+6. DELETE routes for categories, tag, and products being tested in Insomnia: https://drive.google.com/file/d/118A_8EGQZBRfQkzh2rfzsUDjEhEbWuwP/view
+
 ## Contributing
 
 Paul Gottinger
 
 ## Tests
 
-There is no test included in the application. 
+There is no test included in the application.
 
 ## Questions
 
